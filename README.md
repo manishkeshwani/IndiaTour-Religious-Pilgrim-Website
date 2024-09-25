@@ -8,7 +8,7 @@ Discover the spiritual heart of India through our comprehensive platform dedicat
 
 ## Demo
 
-[link](https://manishkeshwani.github.io/IndiaTour-Religious-Pilgrim-Website/)
+[IndiaTour](https://manishkeshwani.github.io/IndiaTour-Religious-Pilgrim-Website/)
 
 
 ## Installation
@@ -26,6 +26,5 @@ After Installation run
 ```
     
 ## Screenshots
-
 ![Screenshot_24-9-2024_23278_localhost](https://github.com/user-attachments/assets/9789e249-157b-4b0b-bf55-9401179f40b1)
 
